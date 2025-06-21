@@ -13,7 +13,7 @@ Toshiba printers are known for their high-quality performance, reliable printing
    :alt: My Project Logo
    :width: 400px
    :align: center
-   :target: https://tek.chat/
+   :target: https://setupprinter.net/
 
 In this guide, we’ll walk you through the steps required to setup, download, install, and configure your Toshiba printer, as well as troubleshoot any potential issues you may encounter during the process. Additionally, we’ll explore how to access customer support and ensure that your printer is functioning smoothly.
 
